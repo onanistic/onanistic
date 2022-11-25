@@ -1,3 +1,5 @@
+<p align="center"><a href="https://discord.com/users/939023433134669875"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"></a></p>
+
 
 # Hello 👋  I am @onanistic
 
