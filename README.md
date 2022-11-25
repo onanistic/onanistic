@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onanistic
 - 👀 I’m interested in Java, JavaScript, and C#
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on World Peace
+- 💞️ I’m looking to collaborate for World Peace
 - 📫 Reach me in my discord https://discord.gg/doomsday/
 
 <!---
