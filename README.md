@@ -1,4 +1,4 @@
-<p align="center"><a href="https://discord.com/users/939023433134669875"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/939023433134669875"></a></p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/939023433134669875)](https://discord.com/users/939023433134669875)
 
 
 # Hello 👋  I am @onanistic
