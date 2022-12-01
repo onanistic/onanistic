@@ -5,7 +5,6 @@
 
 👀 I’m interested in Java, JavaScript, and C#   
 🌱 I’m currently learning JavaScript  
-💞️ I’m looking to collaborate for World Peace.  
 📫 Reach me in my discord https://discord.gg/doomsday/
 
 
@@ -24,8 +23,8 @@ Building client-side applications.
 Building Discord bots with DiscordJS and Node.
 ## Acknowledgements
 
- - [Join my disocrd](https://discord.gg/doomsdady)
- - [Working @ LabMCGames](https://dsc.gg/research)
+ - [My Discord](https://discord.gg/doomsdady)
+ - [Lab MC Games](https://dsc.gg/labgames)
  
 
 
